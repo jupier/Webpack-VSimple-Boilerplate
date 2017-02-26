@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: lavender;
+}
+
+.layout {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    height: 80%;
+    width: 80%;
+}
+
+.layout-content {
+    height: 100%;
+    width: 100%;
+    background-image: url('https://raw.githubusercontent.com/webpack-contrib/awesome-webpack/master/media/awesome_webpack_branding.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.layout-footer {
+    text-align: center;
+}
