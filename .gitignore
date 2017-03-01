@@ -30,7 +30,7 @@ build/Release
 node_modules
 jspm_packages
 dist
-.idea
+.idea/
 
 # Optional npm cache directory
 .npm
